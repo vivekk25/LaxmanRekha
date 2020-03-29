@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LaxmanRekha</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">add fb app id</string>
+    <string name="fb_login_protocol_scheme">need to add fb protocol id here</string>
+
+</resources>
